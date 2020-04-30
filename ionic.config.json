@@ -1,0 +1,7 @@
+{
+  "name": "Contr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
